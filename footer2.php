@@ -22,7 +22,7 @@
 </head>
 <body>
 	<footer>
-		<h2>Createdd - 2022 </h2>
+		<h2>Created - 2022 </h2>
 	</footer>
 </body>
 </html>
