@@ -10,7 +10,7 @@
 			padding: 20px;
 			box-sizing: border-box;
 			display: flex;
-			color: #fff;
+			color: #ffffff;
 			box-shadow: 0 -2px 5px grey;
 		}
 		footer h2{
