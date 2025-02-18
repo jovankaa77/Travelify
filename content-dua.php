@@ -13,7 +13,7 @@
 			margin: 20px auto;
 			display: flex;
 			flex-wrap: wrap;
-			justify-content: space-between
+			justify-content: space-between;
 		}
 		.tiga-satu{
 			width: 35%;
